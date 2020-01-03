@@ -1,0 +1,10 @@
+추가로 data 파일을 하나 만들어야 합니다. 
+data파일은 다음과 같이 구성해야 합니다.(예시)
+-faces
+  - me
+  - other1
+  - other2
+  - others
+  - others_1
+  - others_2
+자시자신의 사진과 다른 사람들의 사진을 파일별로 넣어줍니다.
