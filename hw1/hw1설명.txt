@@ -1,0 +1,27 @@
+과제내용: 
+
+(1) Inverse, Contrast stretching, Histogram equalization, Thresholding, Add/Subtract(두 영상) 를 구현
+
+구현 코드는 실습때 했던거 그대로 써도됨
+토의를 하는 게 과제 주된 내용!!
+
+
+제출물: 핵심 알고리즘 부분의 소스 코드, 실행 결과(결과 사진), discussion (제일 중요!!!!)
+(* 주의 : discussion이 없을시 감점 처리됨) 
+ 
+
+유의사항: 
+- Contrast stretching: 'lya-lc.bmp', 'lya-lc-dark.bmp', 
+  'lya-lc-bright.bmp', 'lya-lc-bad.bmp' 영상에 대해 적용 
+
+- Histogram equalization: 잘 되는 예, 잘 되지 않는 예에 대해서 실험 할 것.
+ 
+- Thresholding : 'finger-gray.bmp' 영상을 사용하여 
+  여러가지 threshold 값에 따라 적용
+ 
+- Add/Subtract : 두 영상을 합하는(빼는) 비율은 임의로 변경해가며 결과 영상을 얻을 수 있도록 함
+ 
+- 기타 스스로 만들거나 입수한 영상들을 추가로 사용해서
+  test 해 본 후, 의미있는 결과들에 대해서 토의할 것 
+
+
