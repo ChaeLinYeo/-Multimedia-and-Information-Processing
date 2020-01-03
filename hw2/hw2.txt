@@ -1,0 +1,26 @@
+Homework #2
+  
+과제내용:
+
+1번과제) Blurring, Sharpening, Noise reduction, Edge detection을 구현
+  - Blurring, Sharpening : 임의의 영상에 다양한 마스크를 적용하여 분석
+  - Noise reduction : 첨부한 영상을 사용하여 Average filtering과
+    Median filtering을 비교
+  - Edge detection : Sobel operator를 이용하여 다양한 영상에 적용
+
+1번과제) 특징점 알고리즘 SIFT, SURF, FAST를 활용한 특징점 검출(Opencv library)
+  - 주어진 이미지를 사용하여 각 알고리즘을 활용한 결과를 확인
+  - Opencv 함수에서 사용되는 파라미터를 바꾸었을 때 알고리즘에서 어떠한 부분에서 변화가 생기는지 설명
+  - Leaf.jpg를 이용한 특징점 검출에서 SIFT, SURF, FAST중 보다 나은 특징점 검출 알고리즘이 무엇인지 설명하고 이유를 작성
+
+
+
+제출물: 핵심 알고리즘 부분의 소스 코드, 실행 결과, discussion
+
+ 
+
+
+유의사항
+
+  - 기타 스스로 만들거나 입수한 영상들을 추가로 사용하여서 
+    test 해 본 후, 의미있는 결과들에 대해서 제출 및 토의할 것
